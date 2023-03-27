@@ -1,1 +1,1 @@
-# library-sys ![Blank diagram (3)](https://user-images.githubusercontent.com/56866260/227932649-949ec46a-7393-48bf-8e1d-2945f8a9e103.png)
+# library-sys ![Blank diagram (4)](https://user-images.githubusercontent.com/56866260/227933431-cd49ee5d-ae48-4694-ad2a-89e93a7ee17a.png)
